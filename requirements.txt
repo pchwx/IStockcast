@@ -6,6 +6,5 @@ matplotlib==3.5.3
 Pillow==9.5.0
 statsmodels==0.12.2
 random2==1.0.1
-io==0.3
 pytest-warnings==0.3.1
 
