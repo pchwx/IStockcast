@@ -1,0 +1,12 @@
+streamlit==1.23.1
+pandas==1.3.5
+numpy==1.21.6
+time
+matplotlib==3.5.3
+PIL
+statsmodels==0.12.2
+random2==1.0.1
+math
+io
+warnings
+warnings.filterwarnings("ignore")
